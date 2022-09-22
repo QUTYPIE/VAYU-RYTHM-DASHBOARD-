@@ -16,7 +16,7 @@
 
   Discord |
 |---|
-| [![join discord Server](https://discord.gg/Rqdx38Gdfn)] 
+| [![discord Server](https://discord.gg/Rqdx38Gdfn)] 
 
 ## Install
 
@@ -32,7 +32,7 @@ Simply Just Click On the File and open with Browser
 
 ## Authors
 
-👤 **Q U T Y P I E <3**
+🔱 **Q U T Y P I E <3**
 
 * Website: https://noerror.studio
 * Github: [@QUTYPIE](https://github.com/QUTYPIE)
