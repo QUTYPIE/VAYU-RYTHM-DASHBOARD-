@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Mikuni Website 👋</h1>
+<h1 align="center">Welcome to VAYU | RYTHM Website 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-V1-blue.svg?cacheSeconds=2592000" />
   <a href="https://unique-cord.netlify.app/docs" target="_blank">
