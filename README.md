@@ -10,9 +10,9 @@
   </a>
 </p>
 
-> Open Source Bot Website for Everyone to Use for Their Discord Bots!
+> invite now vsyu rythm music bot!
 
-### 🏠 [Homepage](https://mikuni.tech)
+### 🏠 [INVITE](https://dsc.gg/vayu-rythm-gg?ref=homepage)
 
   Replit |
 |---|
@@ -32,15 +32,14 @@ Simply Just Click On the File and open with Browser
 
 ## Authors
 
-👤 **Saizuo**
+👤 **Q U T Y P I E <3**
 
 * Website: https://noerror.studio
-* Github: [@Saizuo](https://github.com/Saizuo)
+* Github: [@Saizuo](https://github.com/QUTYPIE)
 
 
-👤 **Nirlep**
 
-* Github: [@Nirlep5252](https://github.com/Nirlep5252)
+
 
 ## Show your support
 
