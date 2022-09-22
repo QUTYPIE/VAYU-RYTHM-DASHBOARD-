@@ -16,7 +16,7 @@
 
   Discord |
 |---|
-| [![join discord Server]()] 
+| [![join discord Server](https://discord.gg/Rqdx38Gdfn)] 
 
 ## Install
 
@@ -45,6 +45,4 @@ Simply Just Click On the File and open with Browser
 
 Give a ⭐️ if this project helped you!
 
-<a href="https://www.patreon.com/NoError">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
