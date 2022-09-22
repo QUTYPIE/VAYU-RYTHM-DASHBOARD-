@@ -35,7 +35,7 @@ Simply Just Click On the File and open with Browser
 👤 **Q U T Y P I E <3**
 
 * Website: https://noerror.studio
-* Github: [@Saizuo](https://github.com/QUTYPIE)
+* Github: [@QUTYPIE](https://github.com/QUTYPIE)
 
 
 
