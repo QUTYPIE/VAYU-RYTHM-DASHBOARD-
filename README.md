@@ -14,9 +14,9 @@
 
 ### 🏠 [INVITE](https://dsc.gg/vayu-rythm-gg?ref=homepage)
 
-  Replit |
+  Discord |
 |---|
-| [![Run on Repl.it](https://repl.it/badge/github/igorkowalczyk/majo.exe)](https://replit.com/@Saizuo/Mikuni-Website-1) 
+| [![join discord Server]()] 
 
 ## Install
 
