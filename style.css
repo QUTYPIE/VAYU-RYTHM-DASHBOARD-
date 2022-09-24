@@ -26,7 +26,7 @@ html {
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background: #22b4b7;
+  background: #FF0000;
   box-shadow: inset 2px 2px 2px rgba(255, 255, 255, 0.25), inset -2px -2px -2px rgba(0,0,0,0.25);
 }
 
@@ -40,7 +40,7 @@ html {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: #22b4b7;
+  background: #FF0000;
 }
 .navbar .max-width {
   display: flex;
@@ -53,7 +53,7 @@ html {
   font-weight: 600;
 }
 .navbar .logo a span {
-  color: #22b4b7;
+  color: #FF0000;
   transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span {
@@ -72,7 +72,7 @@ html {
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: #22b4b7;
+  color: #FF0000;
 }
 .navbar.sticky .menu li a:hover {
   color: #fff;
@@ -88,7 +88,7 @@ html {
   position: fixed;
   height: 45px;
   width: 42px;
-  background: #22b4b7;
+  background: #FF0000;
   right: 30px;
   bottom: 10px;
   text-align: center;
@@ -139,7 +139,7 @@ html {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: #22b4b7;
+  color: #FF0000;
   font-weight: 500;
 }
 .this-is-pain {
@@ -151,12 +151,12 @@ html {
   padding: 12px 36px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid #22b4b7;
+  border: 2px solid #FF0000;
   transition: all 0.3s ease;
 }
 .this-is-pain:hover {
   background: none;
-  color: #22b4b7;
+  color: #FF0000;
 }
 
 section {
@@ -186,7 +186,7 @@ section .title::after {
   bottom: -12px;
   left: 50%;
   font-size: 20px;
-  color: #22b4b7;
+  color: #FF0000;
   padding: 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -224,7 +224,7 @@ section .title::after {
   margin-bottom: 20px;
 }
 .card:hover {
-  background: #22b4b7;
+  background: #FF0000;
 }
 .card:hover i {
   color: #fff;
@@ -237,7 +237,7 @@ section .title::after {
 }
 .card i {
   font-size: 50px;
-  color: #22b4b7;
+  color: #FF0000;
   transition: color 0.3s ease;
 }
 .card .text {
@@ -272,7 +272,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .contributors .carousel .cardd:hover {
-  background: #22b4b7;
+  background: #FF0000;
 }
 .contributors .carousel .cardd .boxx {
   display: flex;
@@ -308,7 +308,7 @@ section .title::after {
   font-family: 'Poppins', sans-serif;
 }
 .badges.owner {
-  background: #22b4b7;
+  background: #FF0000;
 }
 .badges.developer {
   background: orange;
@@ -346,7 +346,7 @@ section .title::after {
 }
 .owl-dot.active,
 .owl-dot:hover {
-  background: #22b4b7!important;
+  background: #FF0000!important;
 }
 
 footer {
