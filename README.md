@@ -43,6 +43,6 @@ Simply Just Click On the File and open with Browser
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped 
 
 </a>
