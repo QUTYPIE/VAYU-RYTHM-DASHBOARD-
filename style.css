@@ -295,7 +295,7 @@ section .title::after {
   width: 150px;
   object-fit: cover;
   border-radius: 50%;
-  border: 5px solid #22b4b7;
+  border: 5px solid #FF0000;
   transition: all 0.3s ease;
 }
 .contributors .carousel .cardd:hover img {
@@ -357,7 +357,7 @@ footer {
   text-align: center;
 }
 footer span a {
-  color: #22b4b7;
+  color: #FF0000;
   text-decoration: none;
 }
 footer span a:hover {
@@ -395,7 +395,7 @@ footer span a:hover {
     width: 100%;
     left: -100%;
     top: 0;
-    background: #121212;
+    background: #FF0000;
     text-align: center;
     padding-top: 80px;
     transition: all 0.3s ease;
@@ -484,7 +484,7 @@ footer span a:hover {
   position: absolute;
   height: 4px;
   width: 20%;
-  background: #22b4b7;
+  background: #FF0000;
 }
 .longfazers span:nth-child(1) {
   top: 20%;
